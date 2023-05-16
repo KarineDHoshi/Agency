@@ -1,5 +1,9 @@
+@import 'bootswatch/dist/lux/bootstrap.css';
+
+
 .App {
   text-align: center;
+  justify-content: center;
 }
 
 .App-logo {
@@ -36,3 +40,8 @@
     transform: rotate(360deg);
   }
 }
+
+.card-title{
+  justify-content: center;
+}
+
